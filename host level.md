@@ -22,7 +22,7 @@
 - [ ] hostpath
 - [ ] xfs_quota
 
-## network volume lost
-- [ ] rbd stale connection
+## network volume 
+- [ ] stale connection
 
 
