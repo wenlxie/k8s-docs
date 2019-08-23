@@ -14,6 +14,7 @@
 
 ## disk
 - [ ] emptydir
+- [ ] du monstor
 - [ ] pod logs
 - [ ] system logs
 - [ ] docker volume
