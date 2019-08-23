@@ -27,4 +27,10 @@
 ## network volume 
 - [ ] stale connection
 
+## HW issue
+- [ ] mce error / memory lost
+- [ ] disk io input/output error/ block error/ disk lost
 
+## kernel error
+- [ ] kernel dead lock
+- [ ] namespace can't be deleted/created
