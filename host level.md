@@ -2,9 +2,11 @@
 
 ## cpu for system
 - [ ]  cpu reqeust and limit 
+- [ ]  best effort pod
 
 ## memory for system
 - [ ] memory request and limit
+- [ ] best effort pod
 
 ## pid limit 
 - [ ] max pid 
